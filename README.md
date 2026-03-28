@@ -56,15 +56,7 @@
 
 ### 📱 Mobile App
 
-> Description of your mobile app
 
-* ✨ Features:
-
-  * Feature 1
-  * Feature 2
-  * Feature 3
-
----
 
 ### 🤖 AI Project
 
@@ -86,3 +78,5 @@
 ---
 
 ## 🌐 Connect With Me
+
+ eklasmoh33@gmail.com
