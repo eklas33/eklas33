@@ -51,7 +51,7 @@
 
 * 🔗 Live Demo: [Coming Soon]
 * 📂 Repo: https://lovable.dev/projects/7f0d1503-aaa6-47d6-bb10-389c89426811?remixed=true
-
+*https://hr-dashboard-4549.taskade.app/?overrides=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3YXRlcm1hcmsiOiJwb3dlcmVkX2J5X2xvZ28iLCJpYXQiOjE3NzQ3NzM1NzUsImV4cCI6MTc3NDc3NzE3NX0.g7FADegUBrdmzJBXbhQoImZ7ytn2n4qZ01rLuWlN36k
 ---
 
 ### 📱 Mobile App
