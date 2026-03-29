@@ -50,7 +50,7 @@
 > Short description of your project (what it does and why it's cool)
 
 * 🔗 Live Demo: [Coming Soon]
-* 📂 Repo: [Link Here]
+* 📂 Repo: https://lovable.dev/projects/7f0d1503-aaa6-47d6-bb10-389c89426811?remixed=true
 
 ---
 
