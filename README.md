@@ -80,7 +80,8 @@ http://Cosmic-pony-1e17c7.netlify.app
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklas33\&layout=compact\&theme=radical)
 
----
+design
+https://Squat-option-53678791.figma.site
 
 ## 🌐 Connect With Me
 
