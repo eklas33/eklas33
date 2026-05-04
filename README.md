@@ -53,7 +53,7 @@
 * 📂 Repo: https://lovable.dev/projects/7f0d1503-aaa6-47d6-bb10-389c89426811?remixed=true
 
 
-
+https://last-omega-lemon.vercel.app/
 ---
 *portifolio
 
@@ -81,7 +81,8 @@ http://Cosmic-pony-1e17c7.netlify.app
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklas33\&layout=compact\&theme=radical)
 
 design
-https://Squat-option-53678791.figma.site
+https://Squat-option-53678791.f
+igma.site
 
 ## 🌐 Connect With Me
 
